@@ -3,10 +3,10 @@ Cmarty is a template engine for PHP like Smarty, facilitating the separation of 
 
 
 ## Requirements
-Smarty can be run with PHP 7.1 to PHP 8.1.
+Cmarty can be run with PHP 7.1 to PHP 8.1.
 
 ## Installation
-Smarty versions 1.0 or later can be installed with [Composer](https://getcomposer.org/).
+Cmarty versions 1.0 or later can be installed with [Composer](https://getcomposer.org/).
 
 To get the latest stable version of Cmarty use:
 ```bash
